@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(117, 12, 117);
+}
+.tit{
+    background-color: rgb(58, 2, 58);
+    color: white;
+    width: 99%;
+    align-items: center;
+    text-align: center;
+    margin: 8px;
+    padding: 10px;
+}
+.dat{
+    background-color: white;
+    width: 99%;
+    align-items: center;
+    text-align: center;
+    margin: 8px;
+    padding: 10px;
+    border-top: 20px solid  rgb(58, 2, 58);
+}
+.form{
+    background-color: white;
+    width: 95%;
+    align-items: center;
+    text-align: center;
+    margin: 8px;
+    padding: 10px;
+}
+.sub{
+    background-color: rgb(58, 2, 58);
+    width: 99%;
+    align-items: center;
+    text-align: center;
+    margin: 8px;
+    padding: 10px;
+    color: white;
+}
+
+@media screen {
+    
+}
